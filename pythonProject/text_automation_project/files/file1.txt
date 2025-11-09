@@ -1,0 +1,3 @@
+Hello, this is file one.
+It contains multiple lines.
+Python is great!

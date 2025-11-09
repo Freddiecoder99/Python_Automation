@@ -1,0 +1,9 @@
+Hello, this is file one.
+It contains multiple lines.
+Python is great!
+This is file two.
+Let's automate things.
+No extra libraries needed.
+File three is here.
+Offline coding is great.
+Enjoy automation.
